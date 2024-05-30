@@ -1,14 +1,13 @@
 <header>
-# We makin changes to this readme file!!!!!!!!!!!!!!!
-## Hello GitHub Actions
+
+# Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
 
 </header>
 
 ## Step 5: Trigger the workflow
-## I'm trying to change the page here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
-### loejbfvlkejfvlwejfbvlwejb
+
 _You've now added a fully functioning workflow to your repository! :smile:_
 
 The shell script in the workflow will run whenever a new pull request is opened.
